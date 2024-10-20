@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
       heartEmoji.style.position = 'absolute';
       heartEmoji.style.transition = 'all 0.5s ease';
 
-      countdown = 98; 
+      countdown = 99; 
       isMoving = true;
 
       // Display both messages
