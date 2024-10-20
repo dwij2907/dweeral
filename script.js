@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
       surprise.appendChild(message1);
 
       const message2 = document.createElement('h2');
-      message2.textContent = 'Catch my heart if you can!';
+      message2.textContent = 'Catch my heart if you can! Time's ticking, but my love for you is endless! ⏳';
       surprise.appendChild(message2);
 
       // Start countdown
